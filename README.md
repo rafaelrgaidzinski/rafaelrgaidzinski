@@ -19,16 +19,19 @@
 ![TS](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-ECE2FB?style=for-the-badge&logo=Angular&logoColor=DD0031)&nbsp;
 
-### ⚡ &nbsp;Database 
+### ⚡ &nbsp;Database
 ![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
 
+## 🔔 Github Metrics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrgaidzinski&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelrgaidzinski&theme=github)
 
 <div>
   <h3>Entre em contato comigo:</h3>
   <a href="mailto:rafaelgaidzinski@gmail.com">
-    <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-informational?style=flat&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   <a href="https://www.linkedin.com/in/rafaelrgaidzinski">
-    <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn">
   </a>
 </div>
