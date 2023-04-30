@@ -3,28 +3,27 @@
 </h1>
 
 <p>
-  Olá eu sou o Rafael, estou cursando Engenharia de Software e no momento meu foco é aprender sobre desenvolvimento web. Também tenho uma forte aptidão e gosto pela     matemática e um interesse em estudar sobre a área de dados mais para frente. 
+  Olá eu sou o Rafael, estou cursando Engenharia de Software e no momento meu foco é aprender sobre desenvolvimento web. Também tenho uma forte aptidão e gosto pela     matemática e um interesse em estudar sobre a área de dados no futuro. 
 </p>
 
 <h3>Tecnologias que estou estudando:</h3>
 
-### 👩‍💻 &nbsp;Back-End
-![Python](https://img.shields.io/badge/Python-ECE2FB?style=for-the-badge&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
+### ⚙️ &nbsp;Back-End
+![Python](https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
 
-### 🎨 &nbsp;Front-end
-![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TS](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-ECE2FB?style=for-the-badge&logo=Angular&logoColor=DD0031)&nbsp;
+### ✏️ &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-EEEEEE?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TS](https://img.shields.io/badge/TypeScript-EEEEEE?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-EEEEEE?style=for-the-badge&logo=Angular&logoColor=DD0031)&nbsp;
 
-### ⚡ &nbsp;Database
-![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
+### 🗄️ &nbsp;Database
+![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=for-the-badge&logo=mysql)&nbsp;
 
-## 🔔 Github Metrics
+## 📏 Github Metrics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrgaidzinski&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelrgaidzinski&theme=github)
 
 <div>
   <h3>Entre em contato comigo:</h3>
