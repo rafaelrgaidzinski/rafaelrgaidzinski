@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Olá eu sou o Rafael, estou cursando Engenharia de Software e no momento meu foco é aprender sobre desenvolvimento web. Também tenho uma forte aptidão e gosto pela     matemática e um interesse em estudar sobre a área de dados no futuro. 
+  Olá eu sou o Rafael, estou cursando Engenharia de Software e no momento meu foco é aprender sobre desenvolvimento web.
 </p>
 
 <h3>Tecnologias que estou estudando:</h3>
