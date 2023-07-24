@@ -9,8 +9,8 @@
 <h3>Tecnologias que estou estudando:</h3>
 
 ### ⚙️ &nbsp;Back-End
-![Python](https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python)&nbsp;
 
 ### ✏️ &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=for-the-badge&logo=HTML5)&nbsp;
