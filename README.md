@@ -10,14 +10,12 @@
 
 ### ⚙️ &nbsp;Back-End
 ![Python](https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 ### ✏️ &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-EEEEEE?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TS](https://img.shields.io/badge/TypeScript-EEEEEE?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-EEEEEE?style=for-the-badge&logo=Angular&logoColor=DD0031)&nbsp;
 
 ### 🗄️ &nbsp;Database
 ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=for-the-badge&logo=mysql)&nbsp;
