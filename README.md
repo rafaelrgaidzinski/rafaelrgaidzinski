@@ -15,7 +15,7 @@
 ### ✏️ &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-EEEEEE?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
 
 ### 🗄️ &nbsp;Database
 ![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=for-the-badge&logo=mysql)&nbsp;
