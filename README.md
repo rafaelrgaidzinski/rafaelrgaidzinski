@@ -9,16 +9,7 @@
 <h3>Tecnologias que estou estudando:</h3>
 
 ### ⚙️ &nbsp;Back-End
-![PHP](https://img.shields.io/badge/PHP-EEEEEE?style=for-the-badge&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python)&nbsp;
-
-### ✏️ &nbsp;Front-end
-![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-EEEEEE?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-
-### 🗄️ &nbsp;Database
-![MySQL](https://img.shields.io/badge/-MySQL-EEEEEE?style=for-the-badge&logo=mysql)&nbsp;
 
 ## 📏 Github Metrics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrgaidzinski&theme=github)
